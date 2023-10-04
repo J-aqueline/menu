@@ -1,2 +1,2 @@
 # menu
-development of an online menu using Java Spring and React
+development of an digital menu using Java Spring and React
